@@ -1,4 +1,5 @@
 .idea
 data
-final/result
+final
+result
 .DS_store
